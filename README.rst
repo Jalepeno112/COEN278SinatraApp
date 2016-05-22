@@ -7,4 +7,8 @@ The project involves a simple database for adding student information including 
 Most of the endpoints are protected.  There is only one username and password.
 
 Username: frank
+
 Password: sinatra
+
+
+The url to the heroku app is: polar-escarpment-97824.herokuapp.com
